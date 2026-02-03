@@ -100,4 +100,3 @@ pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
 
 
 
-This project is intended for **educational and aca
